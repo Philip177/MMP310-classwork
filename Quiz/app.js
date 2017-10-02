@@ -1,4 +1,4 @@
-var submit = document.getElementById("submit");
+ var submit = document.getElementById("submit");
 submit.onclick = function(event) {
     var count = 0;
     var Mario = document.getElementById("Question1");
