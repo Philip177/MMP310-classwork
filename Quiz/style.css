@@ -1,9 +1,9 @@
 body{
     width: 100vw;
     height: 100vh;
-    font-family: fantasy, sans-serif;
+    font-family: cursive, sans-serif;
     color: aquamarine;
-    background: #e74c3c;;
+    background: green;;
     display: flex;
     flex-direction: column;
     justify-content: center;
