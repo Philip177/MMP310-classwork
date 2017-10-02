@@ -1,0 +1,13 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    font-family: cursive, sans-serif;
+    color: aquamarine;
+    background: green;;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    overflow-x: hidden;
+}

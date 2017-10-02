@@ -1,0 +1,13 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    font-family: fantasy, sans-serif;
+    color: aquamarine;
+    background: #e74c3c;;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    overflow-x: hidden;
+}
