@@ -1,0 +1,33 @@
+body {
+    background-color:bisque;
+    font-family: Cursive;
+    text-align: center;
+    font-size: 26px;
+}
+table {
+    
+}
+
+input {
+    background-color:transparent;
+    border:none;
+    font-size: 26px;
+    font-family: Cursive;
+    text-align: center;
+}
+
+#first  {
+    color:blueviolet;   
+}
+#second  {
+    color: darkolivegreen;
+}
+#third  {
+    color:crimson;
+}
+#fourth  {
+    color: chocolate;
+}
+#fifth  { 
+    color: orange;
+}
