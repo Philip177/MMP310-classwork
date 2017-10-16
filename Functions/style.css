@@ -1,0 +1,43 @@
+#container {
+    width: 600px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 1em;
+}
+.message {
+    padding: 2em;
+    border: 1px solid green;
+    border-radius; 0.5em;
+    background-color: coral;
+    font-family: monospace
+}
+
+.message .text{
+    font-size: 2em;
+}
+.message .user{
+    color: azure;
+}
+
+.add-message {
+    margin-top: 1em;
+    padding:2em;
+    background:lightblue;
+    border: 1px solid green;
+    border-radius: 0.5em;
+}
+.add-message input {
+	border:none;
+	font-size:2em;
+	border-bottom: 1px solid transparent;
+}
+
+.add-message input:focus {
+	outline:none;
+	border-bottom: 1px solid green;
+}
+
+.add-message button {
+	font-size:1.5em;
+	margin-top:1em;
+}
