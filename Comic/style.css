@@ -1,0 +1,13 @@
+body{
+    width: 110px;
+    height: 100;
+    background-color: aquamarine;
+}
+
+.slide{
+    color: red;
+}
+
+img{
+    max-width: 325px;
+}
