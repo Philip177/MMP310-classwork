@@ -84,7 +84,7 @@ $(document).ready(function() {
                 };
 
                 var countdownInterval = setInterval(countdown, 1000);
-                
+
 			});
 		}
 	});
